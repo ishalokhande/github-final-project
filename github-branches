@@ -1,8 +1,10 @@
-﻿git branch
+﻿git branch -vv
+  bug-fix-revert db154d6 [origin/bug-fix-revert] Fix simple interest formula
+  bug-fix-typo   85825d4 [origin/bug-fix-typo] Fix typo in README
+* main           58e129c [origin/main] Update simple interest calculator
 
-* bug-fix-revert
-  bug-fix-typo
-  main
+git status
+On branch main
+Your branch is up to date with 'origin/main'.
 
-GitHub Branches URL:
-https://github.com/ishalokhande/mcino-Introduction-to-Git-and-GitHub/branches
+nothing to commit, working tree clean
