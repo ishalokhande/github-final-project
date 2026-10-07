@@ -1,0 +1,16 @@
+﻿curl.exe -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12194
+
+"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12194"
+"state": "closed"
+"head": {
+  "label": "ishalokhande:bug-fix-revert",
+  "ref": "bug-fix-revert",
+  "repo": {
+    "full_name": "ishalokhande/mcino-Introduction-to-Git-and-GitHub",
+    "fork": true
+  }
+}
+"base": {
+  "label": "ibm-developer-skills-network:main",
+  "ref": "main"
+}
